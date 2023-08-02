@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"Audi",
+        "price":"50000",
+        "year": 2023,
+        "seller":{
+            "name":"john",
+            "contact":1113233
+        }
+    },
+    {
+        "id":2,
+        "name":"Ferrari",
+        "price":"150000",
+        "year": 2020,
+        "seller":{
+            "name":"caguas",
+            "contact":1113233
+        }
+    },
+    {
+        "id":3,
+        "name":"Land Rover",
+        "price":"70000",
+        "year": 2021,
+        "seller":{
+            "name":"hugo",
+            "contact":1113233
+        }
+    },
+    {
+        "id":4,
+        "name":"Mclaren",
+        "price":"250000",
+        "year": 2022,
+        "seller":{
+            "name":"mica",
+            "contact":1113233
+        }
+    },
+    {
+        "id":5,
+        "name":"Porsche",
+        "price":"90000",
+        "year": 2022,
+        "seller":{
+            "name":"becker",
+            "contact":1113233
+        }
+    }
+]
